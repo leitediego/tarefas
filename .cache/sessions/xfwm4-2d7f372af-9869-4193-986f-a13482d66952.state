@@ -1,0 +1,13 @@
+[CLIENT] 0x1000004
+  [CLIENT_ID] 25cc49f7d-6ca9-49a8-b2c2-66c6bffcf50c
+  [CLIENT_LEADER] 0x1000001
+  [WINDOW_ROLE] Thunar-1503401551-3325435014
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] media - Gerenciador de arquivos
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (0,49,1600,749)
+  [GEOMETRY-MAXIMIZED] (0,49,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300

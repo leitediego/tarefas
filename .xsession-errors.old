@@ -1,0 +1,9 @@
+openConnection: connect: Arquivo ou diretório não encontrado
+cannot connect to brltty at :0
+upstart: processo startxfce4main (2715) morto pelo sinal TERM
+upstart: Desligado do notified D-Bus bus
+upstart: processo dbusmain (2532) morto pelo sinal KILL
+upstart: processo upstart-file-bridgemain (2589) morto pelo sinal KILL
+upstart: processo upstart-dbus-system-bridgemain (2595) morto pelo sinal KILL
+upstart: processo upstart-dbus-session-bridgemain (2601) morto pelo sinal KILL
+upstart: job gpg-agent failed to stop

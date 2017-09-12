@@ -1,0 +1,13 @@
+[CLIENT] 0x2000010
+  [CLIENT_ID] 2b4eb6877-8f20-43ac-afad-e4dc9510c02a
+  [CLIENT_LEADER] 0x2000001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] Firefox
+  [WM_NAME] Assembly System Calls - Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (1,49,1600,751)
+  [GEOMETRY-MAXIMIZED] (319,102,1280,697)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000

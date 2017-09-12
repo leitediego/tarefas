@@ -1,0 +1,4 @@
+[Added Associations]
+application/x-shellscript=mousepad.desktop;
+text/x-matlab=mousepad.desktop;
+application/zip=file-roller.desktop;

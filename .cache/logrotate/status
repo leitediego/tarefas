@@ -1,0 +1,16 @@
+logrotate state -- version 2
+"/home/xubuntu/.cache/upstart/ssh-agent.log" 2017-9-11-21:34:28
+"/home/xubuntu/.cache/upstart/upstart-event-bridge.log" 2017-9-11-21:34:28
+"/home/xubuntu/.cache/upstart/update-notifier-cds.log" 2017-5-17-14:5:41
+"/home/xubuntu/.cache/upstart/gpg-agent.log" 2017-9-11-21:34:28
+"/home/xubuntu/.cache/upstart/indicator-application.log" 2017-8-22-13:18:35
+"/home/xubuntu/.cache/upstart/indicator-sound.log" 2017-9-11-21:34:28
+"/home/xubuntu/.cache/upstart/gnome-keyring.log" 2017-9-11-21:34:28
+"/home/xubuntu/.cache/upstart/*.log" 2017-6-7-15:0:0
+"/home/xubuntu/.cache/upstart/dbus.log" 2017-9-11-21:34:28
+"/home/xubuntu/.cache/upstart/indicator-messages.log" 2017-8-22-13:18:35
+"/home/xubuntu/.cache/upstart/gnome-keyring-ssh.log" 2017-9-11-21:34:28
+"/home/xubuntu/.cache/upstart/startxfce4.log" 2017-9-11-21:34:28
+"/home/xubuntu/.cache/upstart/update-notifier-release.log" 2017-9-11-21:34:28
+"/home/xubuntu/.cache/upstart/upstart-dbus-session-bridge.log" 2017-9-11-20:15:29
+"/home/xubuntu/.cache/upstart/update-notifier-crash-_var_crash__usr_bin_update-manager.1000.crash.log" 2017-9-11-20:15:29

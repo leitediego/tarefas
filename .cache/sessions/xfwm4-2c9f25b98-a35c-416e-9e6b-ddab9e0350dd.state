@@ -1,0 +1,22 @@
+[CLIENT] 0x3c00004
+  [CLIENT_ID] 2508f7abe-4449-4f38-8395-05a75202b58f
+  [CLIENT_LEADER] 0x3c00001
+  [WINDOW_ROLE] xfce4-terminal-1505176029--1757001909
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - root@xubuntu-VirtualBox: /home/xubuntu/app/tarefas
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (1,49,577,359)
+  [GEOMETRY-MAXIMIZED] (1,49,577,359)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x3800001
+  [RES_NAME] code
+  [RES_CLASS] Code
+  [WM_NAME] ● package.json — tarefas — Visual Studio Code
+  [GEOMETRY] (178,49,1024,616)
+  [GEOMETRY-MAXIMIZED] (178,49,1024,616)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10100

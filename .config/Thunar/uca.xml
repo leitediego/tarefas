@@ -1,0 +1,21 @@
+<?xml encoding="UTF-8" version="1.0"?>
+<actions>
+<action>
+	<icon>Terminal</icon>
+	<name>Abra o Emulador de Terminal aqui</name>
+	<unique-id>1494995175706686-1</unique-id>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Exemplo de uma ação personalizada</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+<action>
+	<icon>filefind</icon>
+	<name>Localizar nesta pasta</name>
+	<unique-id>1494995175706741-2</unique-id>
+	<command>catfish --path=%f</command>
+	<description>Procurar ficheiros dentro desta pasta</description>
+	<patterns>*</patterns>
+	<directories/>
+</action>
+</actions>

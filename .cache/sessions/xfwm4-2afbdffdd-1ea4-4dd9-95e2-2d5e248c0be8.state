@@ -1,0 +1,39 @@
+[CLIENT] 0x3600010
+  [CLIENT_ID] 2ccdeda99-7d4a-412f-958f-7cf235007abf
+  [CLIENT_LEADER] 0x3600001
+  [WINDOW_ROLE] browser
+  [RES_NAME] Navigator
+  [RES_CLASS] Firefox
+  [WM_NAME] Download das notas – INF0009 ARQUITETURA DE COMPUTADORES... - Mozilla Firefox
+  [WM_COMMAND] (1) "firefox"
+  [GEOMETRY] (0,49,1600,751)
+  [GEOMETRY-MAXIMIZED] (0,49,1600,751)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x3a00004
+  [CLIENT_ID] 239abff0c-4de8-4ce7-be0e-133168f56914
+  [CLIENT_LEADER] 0x3a00001
+  [WINDOW_ROLE] xfce4-terminal-1499396830--1085408576
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - xubuntu@xubuntu-VirtualBox: ~/Downloads
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (511,244,577,359)
+  [GEOMETRY-MAXIMIZED] (511,244,577,359)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0xe00004
+  [CLIENT_ID] 25bf49f11-2881-45a8-9369-7679c1d6be0a
+  [CLIENT_LEADER] 0xe00001
+  [WINDOW_ROLE] Thunar-1499395646-391639557
+  [RES_NAME] Thunar
+  [RES_CLASS] Thunar
+  [WM_NAME] Downloads - Gerenciador de arquivos
+  [WM_COMMAND] (1) "Thunar"
+  [GEOMETRY] (0,49,1600,751)
+  [GEOMETRY-MAXIMIZED] (960,49,640,480)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x300

@@ -1,0 +1,13 @@
+ERROR:dbus.proxies:Introspect error on org.bluez:/org/bluez: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out
+ERROR:dbus.proxies:Introspect error on org.bluez:/: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out
+ERROR:dbus.proxies:Introspect error on org.bluez:/: dbus.exceptions.DBusException: org.freedesktop.DBus.Error.TimedOut: Failed to activate service 'org.bluez': timed out
+bash: não foi possível definir o grupo do processo do terminal (-1): ioctl inapropriado para dispositivo
+bash: nenhum controle de trabalho nesta `shell'
+bash: não foi possível definir o grupo do processo do terminal (-1): ioctl inapropriado para dispositivo
+bash: nenhum controle de trabalho nesta `shell'
+bash: não foi possível definir o grupo do processo do terminal (-1): ioctl inapropriado para dispositivo
+bash: nenhum controle de trabalho nesta `shell'
+
+(xfce4-terminal:4104): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:4224): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
