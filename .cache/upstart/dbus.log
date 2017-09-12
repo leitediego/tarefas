@@ -1,2 +1,4 @@
 Activating service name='org.freedesktop.thumbnails.Cache1'
 Successfully activated service 'org.freedesktop.thumbnails.Cache1'
+Activating service name='org.gnome.GConf'
+Successfully activated service 'org.gnome.GConf'
