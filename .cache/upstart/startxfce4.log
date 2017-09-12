@@ -11,3 +11,12 @@ bash: nenhum controle de trabalho nesta `shell'
 (xfce4-terminal:4104): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
 
 (xfce4-terminal:4224): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:5781): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+1505180361387	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+1505180361417	addons.update-checker	WARN	Update manifest for webcompat@mozilla.org did not contain an updates property
+1505180361445	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+1505180361531	addons.update-checker	WARN	Update manifest for aushelper@mozilla.org did not contain an updates property
+1505180361562	addons.update-checker	WARN	Update manifest for clicktoplay-rollout@mozilla.org did not contain an updates property
+1505180361589	addons.update-checker	WARN	Update manifest for followonsearch@mozilla.com did not contain an updates property
+1505180361792	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property

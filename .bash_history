@@ -227,3 +227,9 @@ npm init
 npm install
 npm init
 cd app1/tarefas
+node app
+npm init
+cd app1/tarefas
+npm init
+npm install
+node app

@@ -1,5 +1,5 @@
 favorites=exo-web-browser.desktop,exo-mail-reader.desktop,exo-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,pidgin.desktop,org.gnome.Software.desktop,exo-terminal-emulator.desktop,xfhelp4.desktop
-recent=exo-terminal-emulator.desktop,code.desktop,exo-web-browser.desktop,exo-file-manager.desktop,sasm.desktop,libreoffice-writer.desktop,mousepad.desktop,firefox.desktop
+recent=exo-terminal-emulator.desktop,exo-web-browser.desktop,code.desktop,exo-file-manager.desktop,sasm.desktop,libreoffice-writer.desktop,mousepad.desktop,firefox.desktop
 button-title=Applications Menu
 button-icon=xubuntu-logo-menu
 button-single-row=false

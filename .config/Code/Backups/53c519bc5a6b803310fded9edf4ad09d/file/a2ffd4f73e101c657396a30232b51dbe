@@ -1,0 +1,8 @@
+file:///home/xubuntu/app1/tarefas/views/tarefas.ejs
+<%= titulo %>
+
+<ul>
+<% tarefas.forEach(function(tarefa){ %>
+	<li><%= tarefa %></li>
+<% }) %>
+</ul>
