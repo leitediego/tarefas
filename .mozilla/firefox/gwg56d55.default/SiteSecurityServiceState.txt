@@ -9,7 +9,7 @@ api.heroku.com:HSTS	0	17423	1536953859296,1,0
 use.typekit.net:HSTS	0	17400	1534954985522,1,1
 c.microsoft.com:HSTS	1	17421	1520903037105,1,1
 stats.wordpress.com:HSTS	0	17310	1511213358327,1,0
-dashboard.heroku.com:HSTS	0	17423	1536961050299,1,1
+dashboard.heroku.com:HSTS	0	17423	1536961650240,1,1
 services.addons.mozilla.org:HSTS	10	17423	1536960984363,1,0
 stats.g.doubleclick.net:HSTS	8	17422	1516147229743,1,1
 mail.google.com:HSTS	0	17422	1516147287493,1,1
